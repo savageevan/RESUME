@@ -17,7 +17,7 @@ Student at Brigham Young University - Idaho.
 `Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 3.55 GPA
+- 3.50 GPA
 
 
 ## Work Experience
